@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator Rio Yuda"
 author: "Rio Yuda"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
